@@ -1,1 +1,1 @@
-学会如何在hbuilder中用git
+学会如何在webstorm中用git
